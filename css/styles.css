@@ -13,3 +13,11 @@ a{
 .a-hover:hover{
     color: rgb(241, 89, 33);
 }
+
+.text-black{
+    color: black;
+}
+
+.text-black:hover{
+    color: yellow;
+}
